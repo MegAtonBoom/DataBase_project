@@ -1,0 +1,5 @@
+﻿  cl : warning della riga di comando D9002 : l'opzione sconosciuta '-|' verrà ignorata
+  include
+c1 : fatal error C1083: Non è possibile aprire il file origine: 'C:\Program Files\MySQL\MySQL Connector C 6.1\include': No such file or directory
+  main.c
+  Generazione del codice in corso...

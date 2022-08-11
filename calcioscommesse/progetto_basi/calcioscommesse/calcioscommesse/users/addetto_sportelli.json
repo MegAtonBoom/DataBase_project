@@ -1,0 +1,8 @@
+{
+	"host": "localhost",
+	"username": "addetto_sportelli",
+	"password": "addetto_sportelli",
+	"port": 3306,
+	"database": "calcioscommesse"
+}
+
